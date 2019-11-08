@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996324383627",
+    "firebase_url": "https://foto-app-f5d53.firebaseio.com",
+    "project_id": "foto-app-f5d53",
+    "storage_bucket": "foto-app-f5d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996324383627:android:61ee2371308ec8a0b46d8e",
+        "android_client_info": {
+          "package_name": "com.example.fotoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996324383627-s4nugf0p0utohekgrmdsdilkqvpmp4uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAygqHRSjStu8GmEVa65g8JTQxaF13E78s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996324383627-s4nugf0p0utohekgrmdsdilkqvpmp4uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
